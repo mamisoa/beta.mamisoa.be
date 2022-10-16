@@ -1,0 +1,7 @@
+baseURL = 'https://beta.mamisoa.be/'
+languageCode = 'fr-fr'
+title = 'Mon blog'
+theme = "terminal-mamisoa"
+copyright = "Mamisoa"
+
+

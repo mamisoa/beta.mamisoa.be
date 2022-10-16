@@ -1,0 +1,73 @@
+[en]
+languageName = "English"
+title = "Mamisoa's terminal"
+subtitle = "Mamisoa's terminal window to the world"
+contentDir = "content/en"
+weight = 2
+owner = ""
+keywords = ""
+copyright = "Copyright © 2022 - Mamisoa Andriantafika"
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+
+[[en.params.logo]]
+logoText = "Mamisoa's terminal"
+logoHomeLink = "/"
+
+
+[[en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1
+[[en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/en/blog"
+weight = 2
+[[en.menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/en/archive"
+weight = 3
+
+[fr]
+languageName = "French"
+title = "Le terminal de Mamisoa"
+subtitle = "La fenêtre du terminal de Mamisoa vers le monde"
+contentDir = "content/fr"
+owner = ""
+keywords = ""
+copyright = "Copyright © 2022 - Mamisoa Andriantafika"
+menuMore = "Plus"
+readMore = "Lire plus"
+readOtherPosts = "Lire d'autres articles"
+newerPosts = "Articles les plus récents"
+olderPosts = "Articles les plus anciens"
+missingContentMessage = "Page non trouvée"
+missingBackButtonLabel = "Retour à l'accueil"
+
+[[fr.params.logo]]
+logoText = "Le terminal de Mamisoa"
+logoHomeLink = "/"
+
+[[fr.menu.main]]
+identifier = "a_propos"
+name = "A propos"
+url = "/about"
+weight = 1
+[[fr.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/fr/blog"
+weight = 2
+[[fr.menu.main]]
+identifier = "archive"
+name = "archive"
+url = "/fr/archive"
+weight = 3
