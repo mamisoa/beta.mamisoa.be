@@ -1,0 +1,3 @@
+[submodule "themes/terminal-mamisoa"]
+	path = themes/terminal-mamisoa
+	url = https://github.com/mamisoa/terminal-mamisoa.git
